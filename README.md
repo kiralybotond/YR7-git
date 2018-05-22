@@ -2,6 +2,8 @@
 
 ## Hello 
 
+5th line conflict
+
 This is it
 * here goes something
 * and some more

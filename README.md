@@ -1,5 +1,6 @@
-#My very first project
-Hello 
+# My very first project
+
+## Hello 
 
 This is it
 * here goes something
